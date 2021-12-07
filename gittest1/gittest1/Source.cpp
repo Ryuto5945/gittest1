@@ -3,7 +3,8 @@
 
 int main(void)
 {
-	printf("初めてのGithub");
+	printf("初めてのGithub\n");
+	printf("コミット確認\n");
 	rewind(stdin);
 	getchar();
 	return 0;
