@@ -3,6 +3,7 @@
 
 int main(void)
 {
+	printf("‰‚ß‚Ä‚ÌGithub");
 	rewind(stdin);
 	getchar();
 	return 0;
